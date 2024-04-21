@@ -1,4 +1,4 @@
-# Django Stripe Tutorial
+# Django Stripe
 
 This is about how to integrate Stripe Payments with Django.
 
